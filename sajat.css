@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+}
+.szoveg{
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: justify;
+    margin-top: 25px;
+}
+#tisza{
+    font-size: 25px;
+}
+
+#tisza:hover{
+    background-color:rgb(112, 240, 240)
+}
+.kep{
+    width: 200px;
+}
+
+.madarok{
+    width: 200px;
+}
+
+.col-sm-4{
+    width: 400px;
+}
+
+#madarak{
+    width: 300px;
+}
+
+#madar{
+    width: 450px;
+}
+
+.videodiv{
+    text-align: center;
+    margin-top: 100px;
+}
+
+table{
+    margin: 50px;
+}
+
+.keret:hover{
+    border:3px solid blue;
+    box-shadow: 2px 2px black;
+}
